@@ -13,6 +13,7 @@ The topics are organized from fundamentals → infrastructure → distributed sy
 ### 01. Fundamentals
 
 - [Scalability](./01-fundamentals/scalability.md)
+- [Availability](./01-fundamentals/availability.md)
 
 ---
 
