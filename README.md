@@ -14,6 +14,7 @@ The topics are organized from fundamentals → infrastructure → distributed sy
 
 - [Scalability](./01-fundamentals/scalability.md)
 - [Availability](./01-fundamentals/availability.md)
+- [Reliability](./01-fundamentals/reliability.md)
 
 ---
 
@@ -40,5 +41,7 @@ system-design/
 ├── README.md
 │
 ├── 01-fundamentals/
-│   └── scalability.md
+│ ├── scalability.md
+│ ├── availability.md
+│ ├── reliability.md
 ```
