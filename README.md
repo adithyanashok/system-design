@@ -16,6 +16,7 @@ The topics are organized from fundamentals → infrastructure → distributed sy
 - [Availability](./01-fundamentals/availability.md)
 - [Reliability](./01-fundamentals/reliability.md)
 - [Latency](./01-fundamentals/latency.md)
+- [Throughput](./01-fundamentals/throughput.md)
 
 ---
 
@@ -46,4 +47,5 @@ system-design/
 │ ├── availability.md
 │ ├── reliability.md
 │ ├── latency.md
+| └── throughput.md
 ```
